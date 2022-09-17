@@ -15,7 +15,7 @@ public class times {
 		time[2]="Corinthians";
 		time[3]="Santos";
 		
-		for(int y=0; y<3; y++) {
+		for(int y=1; y<4; y++) {
 			System.out.println("Rodada: "+ y);
 			for(int i=0; i<4; i++) {
 				System.out.print(time[i] + "\n");
