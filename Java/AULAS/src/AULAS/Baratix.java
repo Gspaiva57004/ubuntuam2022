@@ -25,7 +25,7 @@ public class Baratix {
 		
 		//tela inicial
 		System.out.println("Supermercado BARATIX onde o seu dinheiro é valorizado ");
-		System.out.print("Deseja fazer compras? ");
+		System.out.print("Deseja fazer compras? (S para sim ou N para não): ");
 		resposta = leia.next().charAt(0);
 		
 		if(resposta == 'S' || resposta == 's') {
@@ -38,7 +38,7 @@ public class Baratix {
 			}
 			
 				for (int i = 0; i < 1; i++) {
-					System.out.println("Selecione do codigo do produto: ");
+					System.out.println("Selecione do codigo do produto (exerplo: GRP04-xx): ");
 					codigo[i] = leia.next();
 					System.out.println("Digite a quantidade: ");
 					quantidade = leia.nextInt();
