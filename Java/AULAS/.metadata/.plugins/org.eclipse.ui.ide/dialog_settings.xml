@@ -6,6 +6,10 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\Ubuntu\Desktop\ubuntuam2022\Java"/>
+			<item value="C:\Users\Ubuntu\Desktop\ubuntuam2022\Java\AULAS\src\AULAS"/>
+			<item value="C:\Users\Ubuntu\Desktop\ubuntuam2022\Java\AULAS\src"/>
+			<item value="C:\Users\Ubuntu\Desktop\ubuntuam2022\Java\AULAS"/>
 			<item value="C:\Users\gs520\Desktop\ubuntuam2022\Java\AULAS"/>
 			<item value="C:\Users\gs520\Desktop\ubuntuam2022\Java\AULAS\src"/>
 		</list>
